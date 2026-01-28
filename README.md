@@ -1,5 +1,3 @@
-Ansible AWS EC2 Automation
-
 # Ansible AWS EC2 Automation 🚀
 
 This project demonstrates **end-to-end AWS EC2 automation using Ansible**.
