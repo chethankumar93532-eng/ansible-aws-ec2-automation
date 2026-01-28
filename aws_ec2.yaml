@@ -1,0 +1,18 @@
+---
+plugin: amazon.aws.aws_ec2
+
+regions:
+  - ap-south-1
+
+filters:
+  instance-state-name: running
+  tag:Project: Day06-Ansible-AWS
+
+keyed_groups:
+  - key: tags.Name
+    prefix: tag
+
+compose:
+  ansible_host: public_ip_address
+  ansible_user: "'ubuntu'"
+  ansible_ssh_private_key_file: "'~/.ssh/Ansiblerole-key.pem'"

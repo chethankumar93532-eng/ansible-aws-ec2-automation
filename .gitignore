@@ -1,0 +1,16 @@
+# Python / venv
+.venv/
+__pycache__/
+
+# SSH keys
+*.pem
+*.key
+
+# Ansible secrets
+vault.yml
+
+# OS files
+.DS_Store
+
+# Ansible cache
+.ansible/

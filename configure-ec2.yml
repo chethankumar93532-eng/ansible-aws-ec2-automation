@@ -1,0 +1,7 @@
+---
+- name: Configure EC2 instance using Ansible
+  hosts: tag_ansible_ec2_demo
+  become: true
+
+  roles:
+    - webserver

@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+# roles/webserver/defaults/main.yml
+
+apache_package_name: apache2
+apache_service_name: apache2
