@@ -1,9 +1,6 @@
 
 
-
-
-<img width="1536" height="1024" alt="6DD05566-3639-4C5C-8815-1E4E5B6E0996" src="https://github.com/user-attachments/assets/c01adb25-fac4-40a2-bf2a-f0bf80225cc4" />
-
+<img width="1536" height="1024" alt="B6F93099-580A-44BE-9E56-E6B09F51C279" src="https://github.com/user-attachments/assets/28152e70-6a31-4aa8-a2c1-a3086b9e4d26" />
 
 
 # Ansible AWS EC2 Automation 🚀
