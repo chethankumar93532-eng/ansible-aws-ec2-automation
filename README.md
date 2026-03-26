@@ -1,3 +1,11 @@
+
+
+
+
+<img width="1536" height="1024" alt="6DD05566-3639-4C5C-8815-1E4E5B6E0996" src="https://github.com/user-attachments/assets/c01adb25-fac4-40a2-bf2a-f0bf80225cc4" />
+
+
+
 # Ansible AWS EC2 Automation 🚀
 
 This project demonstrates **end-to-end AWS EC2 automation using Ansible**.
